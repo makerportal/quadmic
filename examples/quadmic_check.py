@@ -10,7 +10,7 @@
 # QuadMic Device Finder
 ##############################################
 #
-import pyaudio,sys
+import pyaudio
 
 audio = pyaudio.PyAudio() # start pyaudio device
 
@@ -27,4 +27,3 @@ for indx in range(audio.get_device_count()):
         dev_indx = int(indx)
 if quadmic_indx == []:
     print('No QuadMic Found')
-    sys.exit()
