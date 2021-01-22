@@ -10,6 +10,6 @@ The following plot is outputted by the example script:
 
 ### - QuadMic Annotation - 
 
-The QuadMic is has the following capabilities:
+The QuadMic has the following capabilities:
 
 ![QuadMic Annotation](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/6004f5bda7e7ba5564c9b583/1610937795719/quadmic_ac108_annotation.JPG?format=2500w)
